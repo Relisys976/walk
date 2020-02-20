@@ -1,3 +1,5 @@
+#!/bin/bash
+
 
 # Ping
 echo "Ping 192.168.0.0/27"
